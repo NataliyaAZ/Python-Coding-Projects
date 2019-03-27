@@ -1,6 +1,6 @@
 # Python-Coding-Projects
 
-The Tech Academy Python Final Drill Drill Description:
+The Tech Academy Python Final Drill Description:
 
 The script provides the user with a graphical user interface that includes two buttons allowing the 
 user to browse their own system and select a source directory and a destination directory. The script  shows
