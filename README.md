@@ -1,6 +1,7 @@
 # Python-Coding-Projects
+Includes:
 
-The Tech Academy Python Final Drill Description:
+1. The Tech Academy Python Final Drill Description:
 
 The script provides the user with a graphical user interface that includes two buttons allowing the 
 user to browse their own system and select a source directory and a destination directory. The script  shows
@@ -12,3 +13,5 @@ and paste them within the selected destination directory.
 
 In addition to the above, the script records the file names that were moved and their corresponding modified time-stamps 
 into a database and print out those text files and their modified time-stamps to the console.
+
+2. The Tech Academy Python Coding drills
